@@ -7,12 +7,12 @@ This project demonstrates live message broadcasting between multiple users conne
 
 ## 🚀 Features
 
-* 🔴 Real-time messaging using WebSockets
-* 👥 Multiple users can chat simultaneously
-* ⚡ Instant message broadcast without page refresh
-* 🧩 STOMP protocol for structured messaging
-* 🌐 SockJS fallback for browser compatibility
-* 🎨 Responsive UI with Bootstrap
+*  Real-time messaging using WebSockets
+* Multiple users can chat simultaneously
+*  Instant message broadcast without page refresh
+*  STOMP protocol for structured messaging
+* SockJS fallback for browser compatibility
+*  Responsive UI with Bootstrap
 
 ---
 
@@ -35,7 +35,7 @@ This project demonstrates live message broadcasting between multiple users conne
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 src
@@ -60,22 +60,22 @@ src
 
 ---
 
-## ▶️ Running the Application
+##  Running the Application
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/bibek-2005/Real-Time-Chat-Application.git
+cd Real-Time-Chat-Application
 ```
 
-### 2️⃣ Run the Spring Boot app
+###  Run the Spring Boot app
 
 ```bash
 mvn spring-boot:run
 ```
 
-### 3️⃣ Open in browser
+###  Open in browser
 
 ```
 http://localhost:8080/chat
@@ -83,7 +83,7 @@ http://localhost:8080/chat
 
 ---
 
-## 🧪 Example Message Flow
+## Example Message Flow
 
 ```
 User A → sends message → Server → broadcast → User A & User B receive
@@ -91,7 +91,7 @@ User A → sends message → Server → broadcast → User A & User B receive
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 <img width="1920" height="1080" alt="Screenshot 2026-02-28 175513" src="https://github.com/user-attachments/assets/7b277d0a-28ae-48f1-94bb-6777e5b28cc1" />
 
@@ -110,11 +110,11 @@ User A → sends message → Server → broadcast → User A & User B receive
 
 ## 🔮 Future Improvements
 
-* ✅ Add timestamps
-* ✅ User join/leave notifications
-* ⏳ Save chat history to database
-* ⏳ Authentication & user profiles
-* ⏳ Multiple chat rooms
+*  Add timestamps
+*  User join/leave notifications
+*  Save chat history to database
+*  Authentication & user profiles
+*  Multiple chat rooms
 
 
 ## 👤 Author
