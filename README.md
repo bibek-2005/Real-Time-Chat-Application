@@ -120,7 +120,7 @@ User A → sends message → Server → broadcast → User A & User B receive
 ## 👤 Author
 
 **Your Name**
-GitHub: https://github.com/your-username
+GitHub: https://github.com/bibek-2005
 
 ---
 
